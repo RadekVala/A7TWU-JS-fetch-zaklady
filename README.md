@@ -1,2 +1,2 @@
-# A7TWU-JS-fetch-zaklady
+# A7TWU-JS-zaklady
 Created with CodeSandbox
